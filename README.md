@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Product Landing Page
 
 ## Description
@@ -40,3 +41,7 @@ in your browser.
 
 ## Author
 Himanshu Katariya
+=======
+# DecodeLabs-Internship
+For Internship purpose only
+>>>>>>> 971213ceed7bfc1942b1d24a787659afe26eff2a
